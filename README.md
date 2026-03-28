@@ -7,7 +7,7 @@
 - **Course:** Open Source Software
 - **Project Title:** Open Source Audit
 
-## 📌 Chosen Software
+## Chosen Software
 
 **Git** — a distributed version control system.
 
