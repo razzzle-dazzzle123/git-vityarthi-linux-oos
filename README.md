@@ -61,7 +61,7 @@ Displays system information including:
 - Generates a personalized open-source philosophy
 - Saves output to a `.txt` file
 
-## ▶ How to Run the Scripts
+##  How to Run the Scripts
 
 ### Step 1: Clone the Repository
 
